@@ -1,3 +1,7 @@
+
+content://com.android.providers.media.documents/lite/?loc_ref=load-time-out-banner&refid=7
+https://github.com/user-attachments/assets/2b7f8bde-0c02-4ff0-b7c5-f9426ad5db1b
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -26,7 +30,11 @@ Examples of unacceptable behavior by participants include:
 advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or electronic
+* Publishing others' private information, such a
+
+https://github.com/user-attachments/assets/56838866-43bb-4327-ae71-538ef8d407ec
+
+s a physical or electronic
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
